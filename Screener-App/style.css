@@ -169,6 +169,10 @@ ol {
   display: block;
 }
 
+.question .row p {
+  padding: 15px;
+}
+
 .question .active .img-div {
   display: flex;
   align-items: center;
